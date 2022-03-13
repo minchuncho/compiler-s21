@@ -10,3 +10,6 @@
 [submodule "hw3"]
 	path = hw3
 	url = git@github.com:compiler-s21/hw3-minchuncho.git
+[submodule "hw4"]
+	path = hw4
+	url = git@github.com:compiler-s21/hw4-minchuncho.git
